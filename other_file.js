@@ -1,3 +1,5 @@
+var index = require("./index.js")
+
 console.log(name)
 
 if (name === "Susan") {
